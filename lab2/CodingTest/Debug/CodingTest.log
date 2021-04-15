@@ -1,0 +1,14 @@
+﻿  pch.cpp
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Linkedlist.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CodingTest.cpp
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Shannon-Fano.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Shannon-Fano.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Shannon-Fano.cpp(69,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Shannon-Fano.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Shannon-Fano.cpp(57): message : выполняется компиляция ссылки на экземпляр шаблон функции "arr *converList_Array<int>(LinkedList *)"
+          with
+          [
+              arr=int
+          ]
+     Создается библиотека C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Debug\CodingTest.lib и объект C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Debug\CodingTest.exp
+  CodingTest.vcxproj -> C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Debug\CodingTest.dll

@@ -1,0 +1,4 @@
+C:\Users\Сергей\Desktop\YROKI3\АИСД\Coding\Debug\Coding.exe
+C:\Users\Сергей\Desktop\YROKI3\АИСД\Coding\Debug\Coding.pdb
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Debug\Coding.exe
+C:\Users\Сергей\Desktop\YROKI3\АИСД\lab2\Coding\Debug\Coding.pdb
